@@ -1,60 +1,56 @@
-{
-    "amount": 23500,
-    "countGoods": 6,
-    "contents": [
-        {
-            "id": 1,
-            "title": "Men Jacket",
-            "price": 4000,
-            "color": "blue",
-            "size": "XL",
-            "img": "img/fetured__img-1.jpg",
-            "quantity": 1
-        },
-        {
-            "id": 2,
-            "title": "'Women Costume",
-            "price": 8000,
-            "color": "black",
-            "size": "XL",
-            "img": "img/fetured__img-2.jpg",
-            "quantity": 2
-        },
-        {
-            "id": 3,
-            "title": "Sweatshirt",
-            "price": 3000,
-            "color": "blue-black",
-            "size": "XL",
-            "img": "img/fetured__img-3.jpg",
-            "quantity": 1
-        },
-        {
-            "id": 4,
-            "title": "Trousers",
-            "price": 2500,
-            "color": "blue",
-            "size": "XL",
-            "img": "img/fetured__img-4.jpg",
-            "quantity": 3
-        },
-        {
-            "id": 5,
-            "title": "Women Jacket",
-            "price": 3500,
-            "color": "blue",
-            "size": "XL",
-            "img": "img/fetured__img-5.jpg",
-            "quantity": 1
-        },
-        {
-            "id": 6,
-            "title": "Women Blouse",
-            "price": 2500,
-            "color": "green",
-            "size": "XL",
-            "img": "img/fetured__img-6.jpg",
-            "quantity": 1
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "title": "Men Jacket",
+        "price": 4000,
+        "color": "blue",
+        "size": "XL",
+        "img": "img/fetured__img-1.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "title": "'Women Costume",
+        "price": 8000,
+        "color": "black",
+        "size": "XL",
+        "img": "img/fetured__img-2.jpg",
+        "quantity": 2
+    },
+    {
+        "id": 3,
+        "title": "Sweatshirt",
+        "price": 3000,
+        "color": "blue-black",
+        "size": "XL",
+        "img": "img/fetured__img-3.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "title": "Trousers",
+        "price": 2500,
+        "color": "blue",
+        "size": "XL",
+        "img": "img/fetured__img-4.jpg",
+        "quantity": 3
+    },
+    {
+        "id": 5,
+        "title": "Women Jacket",
+        "price": 3500,
+        "color": "blue",
+        "size": "XL",
+        "img": "img/fetured__img-5.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "title": "Women Blouse",
+        "price": 2500,
+        "color": "green",
+        "size": "XL",
+        "img": "img/fetured__img-6.jpg",
+        "quantity": 1
+    }
+]

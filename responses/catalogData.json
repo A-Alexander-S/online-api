@@ -8,40 +8,40 @@
         "img": "img/fetured__img-1.jpg"
     },
     {
-        "id": 2,
-        "title": "'Women Costume",
+        "id_product": 2,
+        "product_name": "'Women Costume",
         "price": 8000,
         "color": "black",
         "size": "XL",
         "img": "img/fetured__img-2.jpg"
     },
     {
-        "id": 3,
-        "title": "Sweatshirt",
+        "id_product": 3,
+        "product_name": "Sweatshirt",
         "price": 3000,
         "color": "blue-black",
         "size": "XL",
         "img": "img/fetured__img-3.jpg"
     },
     {
-        "id": 4,
-        "title": "Trousers",
+        "id_product": 4,
+        "product_name": "Trousers",
         "price": 2500,
         "color": "blue",
         "size": "XL",
         "img": "img/fetured__img-4.jpg"
     },
     {
-        "id": 5,
-        "title": "Women Jacket",
+        "id_product": 5,
+        "product_name": "Women Jacket",
         "price": 3500,
         "color": "blue",
         "size": "XL",
         "img": "img/fetured__img-5.jpg"
     },
     {
-        "id": 6,
-        "title": "Women Blouse",
+        "id_product": 6,
+        "product_name": "Women Blouse",
         "price": 2500,
         "color": "green",
         "size": "XL",

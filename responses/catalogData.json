@@ -1,7 +1,7 @@
 [
     {
-        "id": 1,
-        "title": "Men Jacket",
+        "id_product": 1,
+        "product_name": "Men Jacket",
         "price": 4000,
         "color": "blue",
         "size": "XL",
